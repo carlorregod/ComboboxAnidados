@@ -8,7 +8,7 @@
 </head>
 <body>	
     <h1 class="text-danger mt-3 mb-5 mx-3">Combobox anidados de países-ciudades</h1>
-    <table class="table table-hover mx-5" style="width:45%;">
+    <table class="table table-hover mx-5" style="width:60%;">
         <tbody>
             <tr>
                 <td><strong>Ingresar país</strong></td>
